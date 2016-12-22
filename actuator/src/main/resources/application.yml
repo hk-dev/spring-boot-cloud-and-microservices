@@ -1,0 +1,5 @@
+info:
+  app:
+    name: Spring Boot Actuator
+    description: Greetings Service
+    version: 1.0.0
